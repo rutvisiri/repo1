@@ -1,2 +1,6 @@
 hello i am third file
+<<<<<<< Updated upstream
 editing for partial
+=======
+editing for partia stash
+>>>>>>> Stashed changes
