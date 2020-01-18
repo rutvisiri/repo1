@@ -1,1 +1,2 @@
 hello i am second file
+i am also editing this particular file. trying out git stash apply 
